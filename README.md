@@ -1,4 +1,4 @@
-```#classmate classes app releases```
+```**#classmate classes app releases**```
 
 ```#this is not for production, it's user preview```
 
