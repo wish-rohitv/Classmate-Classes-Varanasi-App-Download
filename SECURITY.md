@@ -9,8 +9,8 @@ currently being supported with security updates.
 | ------- | ------------------ |
 | 5.1.x   | :x: |
 | 5.0.x   | :x:                |
-| 4.0.x   | :x: |
-| beta    | ✅:                |
+| 1.0   | :✅: |
+| beta    | :                |
 
 ## Reporting a Vulnerability
 
