@@ -9,9 +9,9 @@ download link - https://github.com/wishrohitv/Classmate-Classes-Varanasi-App-Dow
 
 
 <h3>
-some shots
+Some Shots
 </h3>
 
 
-Uploading Classmate classes 2023-12-10 20-01-45.mp4…
+https://github.com/wishrohitv/Classmate-Classes-Varanasi-App-Download/assets/126248971/3bf01425-ff20-45f4-ac2e-2b08a79ee268
 
