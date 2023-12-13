@@ -2,19 +2,16 @@
 classmate classes app releases
 </h1>
 
-**# this is not for production, it's user preview**
+## Classmate Classes app is now is available for people
+version - 1.0
+click here -
+download link - https://github.com/wishrohitv/Classmate-Classes-Varanasi-App-Download/releases/download/v1.0/classmateclasses-1.0-armeabi-v7a-debug.1.apk
 
-Download this - https://github.com/wish-rohitv/Classmate-Classes-Varanasi-App-Download/releases/download/v0.1/classmate-0.1-armeabi-v7a-debug.apk
-
-<h2>
-Soon available in google play store, still in underdevelopment
-</h2>
 
 <h3>
 some shots
 </h3>
 
 
-
-https://github.com/wishrohitv/Classmate-Classes-Varanasi-App-Download/assets/126248971/28735ee1-bce0-4c66-990e-0aa1d7189c0a
+Uploading Classmate classes 2023-12-10 20-01-45.mp4…
 
