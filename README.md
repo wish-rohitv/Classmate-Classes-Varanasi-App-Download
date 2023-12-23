@@ -3,14 +3,10 @@ classmate classes app releases
 </h1>
 
 ## Classmate Classes app is now available for people
-lower Android version <11
-
+⬇️
 version - 1.0
 click here -
-download link - https://github.com/wishrohitv/Classmate-Classes-Varanasi-App-Download/releases/download/v1.0/classmateclasses-1.0-armeabi-v7a-debug.1.apk
-
-for android version 12,13,14
-download link - https://github.com/wishrohitv/Classmate-Classes-Varanasi-App-Download/releases/download/v1.0android13/classmateclasses-1.0-arm64-v8a-debug.apk
+app download link - https://github.com/wishrohitv/Classmate-Classes-Varanasi-App-Download/releases/download/v1.0stable/classmateclasses-1.0-armeabi-v7a-debug.apk
 
 
 <h3>
