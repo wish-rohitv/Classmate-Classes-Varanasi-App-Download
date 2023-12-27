@@ -6,7 +6,9 @@ classmate classes app releases
 ⬇️
 version - 1.0
 click here -
-app download link - https://github.com/wishrohitv/Classmate-Classes-Varanasi-App-Download/releases/download/v1.0stable/classmateclasses-1.0-armeabi-v7a-debug.apk
+app download link - https://github.com/wishrohitv/Classmate-Classes-Varanasi-App-Download/releases/download/v1.0stable.version/classmateclasses-1.0-armeabi-v7a-debug.apk
+
+for more detaile <a href="">view</a>
 
 
 <h3>
