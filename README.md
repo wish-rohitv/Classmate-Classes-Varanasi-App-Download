@@ -18,5 +18,5 @@ Some Shots
 
 https://github.com/wishrohitv/Classmate-Classes-Varanasi-App-Download/assets/126248971/3bf01425-ff20-45f4-ac2e-2b08a79ee268
 
-assets and images are used in this app available freely on <a href="https://www.flaticon.com/">FlatIcon</a>
+assets and images are used in this app available free on <a href="https://www.flaticon.com/">FlatIcon</a>
 
