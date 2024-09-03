@@ -46,9 +46,13 @@ Thank you for being a part of the Classmate Classes community!
 <h3>
 Some Shots
 </h3>
-
-
-https://github.com/wishrohitv/Classmate-Classes-Varanasi-App-Download/assets/126248971/3bf01425-ff20-45f4-ac2e-2b08a79ee268
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3c5d2e79-8cd9-46cf-93aa-e147dc4212d0" alt="Image 1" width="210"/>
+  <img src="https://github.com/user-attachments/assets/e2667138-82dc-4a7e-9f87-394b2a3aa3ca" alt="Image 2" width="210"/>
+  <img src="https://github.com/user-attachments/assets/ebb41deb-b450-42c3-9d6f-1e997379483a" alt="Image 3" width="210"/>
+  <img src="https://github.com/user-attachments/assets/5df862a9-7384-425e-97be-f002225cb87c" alt="Image 3" width="210"/>
+  <img src="https://github.com/user-attachments/assets/29d74e5e-d9db-49b1-9fcc-cba633195e83" alt="Image 3" width="210"/>
+</p>
 
 assets and images are used in this app available free on <a href="https://www.flaticon.com/">FlatIcon</a>
 
