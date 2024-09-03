@@ -19,6 +19,7 @@ The Classmate Classes Varanasi App aims to enhance the learning experience by pr
 
 - **Study Notes**: Access detailed and well-organized notes for all subjects.
 - **PDF Resources**: Download and read important study materials in PDF format.
+- **MCQ MOCK TEST**: Attempt mock test and Find all subjects Mcq questions.
 - **Online Classes**: Attend live and recorded classes for effective learning.
 - **UP and CBSE Boards**: Catered to students following both UP and CBSE curriculums.
 
