@@ -2,7 +2,7 @@
 
 Welcome to the Classmate Classes Varanasi App! This educational app is designed to provide comprehensive study resources for students from Class 6 to 12, covering both UP and CBSE boards.
 
-### Download app - <a href = "https://github.com/wishrohitv/Classmate-Classes-Varanasi-App/releases/download/v2.0.0-stable/app-release.apk">Click here</a>
+### Download app - <a href = "https://github.com/wishrohitv/Classmate-Classes-Varanasi-App/releases/download/v2.5.0/app-release.apk">Click here</a>
 
 ## Table of Contents
 
@@ -41,7 +41,6 @@ For any inquiries or support, please contact:
 - **Rahul Prajapati**: [rahul.fcomputer@gmail.com](mailto:rahul.fcomputer@gmail.com)
 
 Thank you for being a part of the Classmate Classes community!
-
 
 <h3>
 Some Shots
