@@ -43,7 +43,7 @@ For any inquiries or support, please contact:
 Thank you for being a part of the Classmate Classes community!
 
 <h3>
-Some Shots
+Screenshot
 </h3>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3c5d2e79-8cd9-46cf-93aa-e147dc4212d0" alt="Image 1" width="210"/>
