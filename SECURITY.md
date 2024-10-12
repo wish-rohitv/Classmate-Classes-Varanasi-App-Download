@@ -8,7 +8,7 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | 2.5.0   | ✔️ |              |
-| 2.0.x   | :x: |              |
+| 2.0.0   | :x: |              |
 | 1.0     | :x: |              |
 | beta    | :x: |              |
 
